@@ -11,7 +11,7 @@ const Header = () => (
     </Link>
     <div className="options">
       <Link className="option" to="/shop">
-        Shop!
+        Shop
       </Link>
       <Link className="option" to="/shop">
         Contact
